@@ -7,7 +7,7 @@ Responsive Design
 React Icons
 
 # Tech Stack:-
-HTML, CSS, React, Jsx
+React, JSX, HTML
 
 # Netlify Hosted Link:- 
 https://nikebrandpage.netlify.app
