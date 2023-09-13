@@ -1,8 +1,13 @@
-# React + Vite
+# Nike Brand Page
+👟 Nike Shoe Brand Page: A sleek and responsive React-based web application showcasing the iconic Nike shoe brand. Explore a stunning collection of Nike shoes with dynamic layouts, powered by React and enhanced with React Icons for a modern UI experience. Step into the world of Nike with our stylish, mobile-friendly design.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Features:- 
+Attractive User Interface
+Responsive Design
+React Icons
 
-Currently, two official plugins are available:
+# Tech Stack:-
+HTML, CSS, React, Jsx
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Netlify Hosted Link:- 
+https://nikebrandpage.netlify.app
