@@ -1,5 +1,5 @@
 import './App.css'
-import './App-responsive.css'
+// import './App-responsive.css'
 import Navigation from './components/Navigation'
 import HeroSection from './components/Hero'
 

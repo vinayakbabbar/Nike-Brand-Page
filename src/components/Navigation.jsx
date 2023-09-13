@@ -1,4 +1,4 @@
-import {MdOutlineMenu} from 'react-icons/md'
+import {MdOutlineMenu} from "react-icons/md";
 
 
 
